@@ -1,0 +1,16 @@
+a[href^="https://"] {
+    color: orange;
+}
+
+a[target] {
+    color: green;
+}
+
+input[type ="text"] {
+    border: 2px solid green;
+}
+
+form[type="email"] {
+    background-color: red;
+}
+
